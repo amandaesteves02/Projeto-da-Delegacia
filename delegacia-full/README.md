@@ -1,6 +1,6 @@
 
 # Projeto Delegacia – Sistema de Chamados
- ## Integrantes- **Ryan Eleutherio Dias** – RA: 3023105252- **Vinícius Esteves de Souza** – RA: 3023104087- **Amanda Esteves Brito dos Santos** – RA: 3023105213--
+ ## Integrantes- **Ryan Eleutherio Dias** – **Vinícius Esteves de Souza** – **Amanda Esteves Brito dos Santos** – 
 ## Etapa 1 — Criação do Projeto
  Desenvolvimento de um projeto Spring Boot utilizando Maven, configurado com as dependências
  essenciais: Spring Web, Spring Data JPA, Spring Security, Thymeleaf e MySQL.
